@@ -58980,7 +58980,7 @@ ffff800009101058 D cgroup1_fs_parameters
 ffff800009101218 d perr_strings
 ffff800009101258 D utsns_operations
 ffff8000091012a0 D kernel_config_data
-ffff80000910be56 D kernel_config_data_end
+ffff80000910be53 D kernel_config_data_end
 ffff80000910be60 d config_gz_proc_ops
 ffff80000910bf40 d audit_feature_names
 ffff80000910cc28 d audit_nfcfgs
